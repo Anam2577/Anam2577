@@ -1,20 +1,15 @@
-<img align="center" alt="coding" width="100%" src="https://media.licdn.com/dms/image/v2/C4D12AQFcmEVyA3XXKw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1653328425974?e=1732147200&v=beta&t=BlA-0QjkXTRtpfr64OTGuJpopW2HytpVAr52hjmfk2k">
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/44c4a464-9c58-47f8-9111-e3c4f51a0af6" />
 
-         
-         
+<br/>
+<h1></h1>
 
-<h1 align="center" alt="Waving hand animated gif" height="40" width="40"> I'm Anam Fatima</h1>
-<h3 align="center">Intense Frontend Developer from India</h3>
-
-
-
+       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anam2577&label=Profile%20views&color=brightgreen&style=flat" alt="Anam2577" /> </p>
 
-<h2> Welcome to my GitHub Profile</h2>
-- 🏫 I'm persuing Bachelor of Technology in CSE from Pranveer Institute Of Technology<br>
-- 📫 How to reach me " anamfa001@gmail.com "<br>
-- 🌱 I’m currently focusing on DSA concepts and down into projects and collaborations.
+<h2> Welcome to my profile</h2>
+ Cureently I'm persuing B.Tech in Computer Science & Engineering from Pranveer Singh Institute of Technology<br>
+ Reach out me through "anamfa001@gmail.com"<br>
+
 
 
 <h2>Connect with me:</h2>
@@ -26,10 +21,19 @@
       <td>
          <a href="https://www.linkedin.com/in/anam-fatima-42baa1297/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anam-fatima" height="40" width="40" /></a>
       </td>
-      
-     
-      
-     
+      <td>
+          <a href="https://www.naukri.com/code360/profile/defe2f36-15ca-42ce-9faa-14679618b552" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ" alt="anam_fatima" height="40" width="40" /></a>
+      </td>
+      <td>
+        <a href="https://www.hackerrank.com/profile/CS_2201640100048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cs_2201640100030" height="40" width="40" /></a>
+         </a>
+      </td>
+      <td>
+          <a href="https://leetcode.com/u/anam_fatima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aftab_10" height="40" width="40" /></a>
+      </td>
+      <td>
+          <a href="https://www.geeksforgeeks.org/user/anam_fatima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aftab_10" height="40" width="40" /></a>
+      </td>
   </table>
 </div>
 
@@ -55,10 +59,13 @@
           <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45" width="45"/>
       </td>
       <td>
-          <img align="center" src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" height="45" width="45"/>
+          <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJfEQqQt2YY8TO2rX-eixAn8dL2JnN7zYxA&s" height="45" width="45"/>
       </td>
       <td>
           <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" width="45"/>
+      </td>
+      <td>
+          <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uhvZg2A6t0LTa2BLkbKoFjsfL18PDdy8OQ&s" height="45" width="45"/>
       </td>
       
   </table>
